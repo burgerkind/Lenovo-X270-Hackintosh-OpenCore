@@ -12,7 +12,7 @@ There is a slight hiccup with the Bluetooth looping a bit much, but with patienc
 
 
 
-![X270](Images/screen.png)
+![X270](Images/a-screen.png)
 
 # Tested OS
 - [x] macOS 11.6.2
