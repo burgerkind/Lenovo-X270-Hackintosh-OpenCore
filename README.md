@@ -24,7 +24,7 @@ There is a slight hiccup with the Bluetooth looping a bit much, but with patienc
 - <b>GPU</b>: Intel HD Graphics 620
 - <b>RAM</b>: 16 GB 2400MHz DDR4
 - <b>Screen</b>: 14" FHD (1920x1080) IPS
-- <b>Wi-Fi</b>: DW-1820a
+- <b>Wi-Fi</b>: Intel AC 8260
 - <b>Camera</b>: 720p
 - <b>Battery</b>: 6-cell 
 
