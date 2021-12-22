@@ -5,7 +5,7 @@ A fork of [michaeldigiacomi´s X270](https://github.com/michaeldigiacomi/Lenovo-
 
 With special thanks to [taida2203´s fork for i7-7500U](https://github.com/taida2203/Lenovo-X270-Hackintosh-OpenCore)
 
-This seeks to change and add a few things, notably, the touchpad and the physical buttons, which now include working [gestures](Images/gestures.gif). taida2203´s fork contains Realtek drivers, whereas this one is for Intel.
+This seeks to change and add a few things, notably, the touchpad and the physical buttons, which now include working [gestures](Images/gestures.gif). taida2203´s fork contains Realtek drivers, whereas this one is for Intel (with HeliPort)
 
 
 There is a slight hiccup with the Bluetooth looping a bit much, but with patience it goes through, alternatively just disable it.
@@ -64,3 +64,8 @@ There is a slight hiccup with the Bluetooth looping a bit much, but with patienc
 
 # What's not working ⚠️
 - [x] Sleep / Wake (lid sleep and lid wake)
+
+# Future
+- Update OpenCore
+- Add lid sleep/wake
+- Change from itlwm to airportitlwm
