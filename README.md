@@ -1,17 +1,27 @@
 # Lenovo-X270-Hackintosh-BigSur-OpenCore-0.6.3
 This repo contains the files and scripts to install macOS on the Lenovo X270 family
 
+A fork of [michaeldigiacomi´s X270](https://github.com/michaeldigiacomi/Lenovo-X270-Hackintosh-OpenCore)
+
+With special thanks to [taida2203´s fork for i7-7500](https://github.com/taida2203/Lenovo-X270-Hackintosh-OpenCore)
+
+This seeks to change and add a few things, notably, the touchpad and the physical buttons, which now include working gestures. taida2203´s fork contains Realtek drivers, whereas this one is for Intel.
+
+
+There is a slight hiccup with the Bluetooth looping a bit much, but with patience it goes through, alternatively just disable it.
+
+
+
 ![X270](Images/screen.png)
 
-# Update History
-- [x] macOS 11.0.1 Beta 3
-- [x] macOS 11.0.1 RC 2
+# Tested OS
+- [x] macOS 11.6.2
 
 # Laptop's Hardware
 - <b>Model</b>: Thinkpad X270
 - <b>Bios</b>: 1.43
-- <b>CPU</b>: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
-- <b>GPU</b>: Intel HD Graphics 520
+- <b>CPU</b>: Intel(R) Core(TM) i7-7500U CPU @ 2.40GHz
+- <b>GPU</b>: Intel HD Graphics 620
 - <b>RAM</b>: 16 GB 2400MHz DDR4
 - <b>Screen</b>: 14" FHD (1920x1080) IPS
 - <b>Wi-Fi</b>: DW-1820a
@@ -35,9 +45,10 @@ This repo contains the files and scripts to install macOS on the Lenovo X270 fam
 - `CSM Support` **No**
 
 # What's Working?
-- [x] Intel HD 520 Graphics (incuding graphics acceleration)
+- [x] Intel HD 620 Graphics (incuding graphics acceleration)
 - [x] CPU Power Management
 - [x] Battery
+- [x] Trackpoint & Physical Buttons
 - [x] All USB ports
 - [x] HDMI port (including HDMI Audio)
 - [x] Intel Ethernet port
@@ -53,4 +64,3 @@ This repo contains the files and scripts to install macOS on the Lenovo X270 fam
 
 # What's not working ⚠️
 - [x] Sleep / Wake (lid sleep and lid wake)
-- [x] Trackpoint and physical buttons
