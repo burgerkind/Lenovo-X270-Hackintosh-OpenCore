@@ -3,7 +3,7 @@ This repo contains the files and scripts to install macOS on the Lenovo X270 fam
 
 A fork of [michaeldigiacomi´s X270](https://github.com/michaeldigiacomi/Lenovo-X270-Hackintosh-OpenCore)
 
-With special thanks to [taida2203´s fork for i7-7500](https://github.com/taida2203/Lenovo-X270-Hackintosh-OpenCore)
+With special thanks to [taida2203´s fork for i7-7500U](https://github.com/taida2203/Lenovo-X270-Hackintosh-OpenCore)
 
 This seeks to change and add a few things, notably, the touchpad and the physical buttons, which now include working gestures. taida2203´s fork contains Realtek drivers, whereas this one is for Intel.
 
