@@ -22,7 +22,7 @@ There is a slight hiccup with the Bluetooth looping a bit much, but with patienc
 - <b>Bios</b>: 1.43
 - <b>CPU</b>: Intel(R) Core(TM) i7-7500U CPU @ 2.40GHz
 - <b>GPU</b>: Intel HD Graphics 620
-- <b>RAM</b>: 16 GB 2400MHz DDR4
+- <b>RAM</b>: 16 GB 2133MHz DDR4
 - <b>Screen</b>: 14" FHD (1920x1080) IPS
 - <b>Wi-Fi</b>: Intel AC 8260
 - <b>Camera</b>: 720p
