@@ -50,13 +50,12 @@ There is a slight hiccup with the Bluetooth looping a bit much, but with patienc
 - [x] Intel HD 620 Graphics (incuding graphics acceleration)
 - [x] CPU Power Management
 - [x] Battery
-- [x] Trackpoint & Physical Buttons
+- [x] Trackpad & Physical Buttons
 - [x] All USB ports
 - [x] HDMI port (including HDMI Audio)
 - [x] Intel Ethernet port
 - [x] Realtek Audio (including headphones jack)
 - [x] Internal camera (including Facetime)
-- [x] Trackpad (gestures work but not the trackpad click. tap to click works.)
 - [x] Shutdown / Reboot 
 - [x] Keyboard (incuding all fn Keys)
 - [x] Wi-Fi & Bluetooth (including Apple services)
