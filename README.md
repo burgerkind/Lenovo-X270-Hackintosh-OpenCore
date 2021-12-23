@@ -28,7 +28,7 @@ There is a slight hiccup with the Bluetooth looping a bit much, but with patienc
 - <b>Screen</b>: 14" FHD (1920x1080) IPS
 - <b>Wi-Fi</b>: Intel AC 8260
 - <b>Camera</b>: 720p
-- <b>Battery</b>: 6-cell 
+- <b>Battery</b>: 6-cell
 
 # Bios settings
 
