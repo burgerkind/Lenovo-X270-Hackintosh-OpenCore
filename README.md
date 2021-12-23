@@ -50,7 +50,7 @@ There is a slight hiccup with the Bluetooth looping a bit much, but with patienc
 - [x] Intel HD 620 Graphics (incuding graphics acceleration)
 - [x] CPU Power Management
 - [x] Battery
-- [x] Trackpad & Physical Buttons
+- [x] Trackpad & Physical Buttons (including gestures)
 - [x] All USB ports
 - [x] HDMI port (including HDMI Audio)
 - [x] Intel Ethernet port
