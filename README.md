@@ -69,3 +69,11 @@ There is a slight hiccup with the Bluetooth looping a bit much, but with patienc
 - Update OpenCore
 - Add lid sleep/wake
 - Change from itlwm to airportitlwm
+
+# Other
+- [corpnewt - MountEFI & GenSMBIOS](https://github.com/corpnewt)
+- [HeliPort](https://github.com/OpenIntelWireless/HeliPort)
+- [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)
+
+
+
