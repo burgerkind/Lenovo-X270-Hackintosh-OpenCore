@@ -22,7 +22,7 @@ There is a slight hiccup with the Bluetooth looping a bit much, but with patienc
 # Laptop's Hardware
 - <b>Model</b>: Thinkpad X270
 - <b>Bios</b>: 1.43
-- <b>CPU</b>: Intel(R) Core(TM) i7-7500U CPU @ 2.40GHz
+- <b>CPU</b>: Intel(R) Core(TM) i7-7500U CPU
 - <b>GPU</b>: Intel HD Graphics 620
 - <b>RAM</b>: 16 GB 2133MHz DDR4
 - <b>Screen</b>: 14" FHD (1920x1080) IPS
