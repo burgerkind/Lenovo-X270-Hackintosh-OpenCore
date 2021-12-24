@@ -7,7 +7,7 @@ With special thanks to [taida2203´s fork for i7-7500U](https://github.com/taida
 
 This seeks to change and add a few things, notably, the touchpad and the physical buttons, which now include working [gestures](Images/gestures.gif). taida2203´s fork contains Realtek drivers, whereas this one is for Intel (with HeliPort)
 
-If you´re running an X270 with any other CPU and you´re simply looking for gestures fix - replace VoodooPS2Controller.kext from this repo with your own.
+If you´re running a X270 with any other CPU and you´re simply looking for gestures fix - replace VoodooPS2Controller.kext from this repo with your own.
 
 
 There is a slight hiccup with the Bluetooth looping a bit much, but with patience it goes through, alternatively just disable it.
