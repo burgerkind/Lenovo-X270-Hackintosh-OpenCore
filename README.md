@@ -65,8 +65,8 @@ There is a slight hiccup with the Bluetooth looping a bit much, but with patienc
 
 # Not tested
 - Dock
-- AirDrop
-- Sidecar
+- AirDrop (AirportItlwm)
+- Sidecar (AirportItlwm)
 
 # What's not working ⚠️
 - [x] Sleep / Wake (lid sleep and lid wake)
