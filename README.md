@@ -68,8 +68,8 @@ There is a slight hiccup with the Bluetooth looping a bit much, but with patienc
 
 # Future
 - [x] [Update OpenCore](https://github.com/aerowa/X270-Monterey-OpenCore)
-- Add lid sleep/wake
-- Change from itlwm to airportitlwm
+- [ ] Add lid sleep/wake
+- [ ] Change from itlwm to airportitlwm
 
 # Other
 - [corpnewt - MountEFI & GenSMBIOS](https://github.com/corpnewt)
