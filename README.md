@@ -1,4 +1,4 @@
-# Lenovo X270 Hackintosh - OpenCore - i7-7500U
+# X270 Hackintosh - OpenCore - i7-7500U - Big Sur
 This repo contains the files and scripts to install macOS on the Lenovo X270 family
 
 A fork of [michaeldigiacomi´s X270](https://github.com/michaeldigiacomi/Lenovo-X270-Hackintosh-OpenCore)
