@@ -47,21 +47,26 @@ There is a slight hiccup with the Bluetooth looping a bit much, but with patienc
 - `CSM Support` **No**
 
 # What's Working?
+- [x] Intel Ethernet port
+- [x] Wi-Fi & Bluetooth (including Apple services)
 - [x] Intel HD 620 Graphics (incuding graphics acceleration)
 - [x] CPU Power Management
 - [x] Battery
-- [x] Trackpad & Physical Buttons (including gestures)
 - [x] All USB ports
-- [x] HDMI port (including HDMI Audio)
-- [x] Intel Ethernet port
-- [x] Realtek Audio (including headphones jack)
 - [x] Internal camera (including Facetime)
-- [x] Shutdown / Reboot 
+- [x] Realtek Audio (including headphones jack)
+- [x] HDMI port (including HDMI Audio)
 - [x] Keyboard (incuding all fn Keys)
-- [x] Wi-Fi & Bluetooth (including Apple services)
+- [x] Trackpad & Physical Buttons (including gestures)
+- [x] Shutdown / Reboot 
 - [x] iMessage, FaceTime, App Store, iTunes Store (with valid smbios)
 - [x] DRM support (iTunes Movies, Apple TV+, Amazon Prime and Netflix*, and others)       *Not in Safari
 - [x] SD Card Reader (v2.2 works but still a bit unstable)
+
+# Not tested
+- Dock
+- AirDrop
+- Sidecar
 
 # What's not working ⚠️
 - [x] Sleep / Wake (lid sleep and lid wake)
